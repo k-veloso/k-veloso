@@ -11,6 +11,7 @@ My work spans customer onboarding, API troubleshooting, SQL-based analysis, tech
 - **Customer success:** Technical onboarding, implementation, account management, proof of concepts, and customer enablement
 - **APIs and data:** REST APIs, Postman, SQL, MySQL, Google Sheets, and webhooks
 - **Automation and development:** JavaScript, HTML, CSS, Python, GitHub, and workflow automation
+- **AI tools:** Claude and Claude Code for work-related technical investigations and workflows; ChatGPT and Codex for personal projects
 - **AI-assisted workflows:** Technical investigation, documentation, and internal tooling
 
 ## Projects
