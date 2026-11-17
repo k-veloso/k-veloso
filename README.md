@@ -21,9 +21,6 @@ A Chrome extension for navigating long web pages and ChatGPT conversations, with
 - [Chrome Web Store](https://chromewebstore.google.com/detail/crumbs-page-outline-markd/galemnojdnjhconjmcgnmmdadildchoi)
 - [Product website and documentation](https://k-veloso.github.io/crumbs-app/)
 
-### [UUID Generator & Verifier](https://github.com/k-veloso/uuid-generator-verifier)
-A Python project for generating and verifying UUIDs.
-
 ## How I approach technical customer success
 
 I like to reproduce issues, investigate possible causes, and look for safe workarounds when they make sense. I document findings clearly and prioritize escalations based on customer impact, urgency, and available alternatives.
